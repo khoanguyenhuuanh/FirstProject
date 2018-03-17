@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+/////
     EditText edtTen, edtCanNang, edtChieuCao;
     Button btnTinhBMI;
     TextView txtBMI, txtChuanDoan;
