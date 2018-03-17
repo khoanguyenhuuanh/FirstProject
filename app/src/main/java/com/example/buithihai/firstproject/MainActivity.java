@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 /////
+    // Hello Đại Ca
     EditText edtTen, edtCanNang, edtChieuCao;
     Button btnTinhBMI;
     TextView txtBMI, txtChuanDoan;
